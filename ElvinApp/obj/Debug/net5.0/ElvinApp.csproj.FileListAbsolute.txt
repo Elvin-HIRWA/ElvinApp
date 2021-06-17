@@ -1,0 +1,16 @@
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.exe
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.deps.json
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.runtimeconfig.json
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.runtimeconfig.dev.json
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.dll
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ref\ElvinApp.dll
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\bin\Debug\net5.0\ElvinApp.pdb
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.csproj.AssemblyReference.cache
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.AssemblyInfoInputs.cache
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.AssemblyInfo.cs
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.csproj.CoreCompileInputs.cache
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.dll
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ref\ElvinApp.dll
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.pdb
+C:\Users\elhir\RiderProjects\ElvinApp\ElvinApp\obj\Debug\net5.0\ElvinApp.genruntimeconfig.cache
